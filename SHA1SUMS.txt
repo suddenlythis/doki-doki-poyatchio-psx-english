@@ -1,0 +1,12 @@
+Doki Doki Poyatchio!! (PlayStation) - English translation v1.0 - SHA-1 checksums
+
+The release download
+cfce268e1ef49a743e7fba508cab3e6a02450461  DokiDokiPoyatchio-EN-v1.0.zip
+
+Files inside the zip
+4a37d24c4d182db474e21d20c3ae32d15baaf102  DokiDokiPoyatchio-EN-v1.0.xdelta
+260c8117e97e00c2c79655e51447b0b8a1a42c6c  Doki Doki Poyatchio!! (English).cue
+
+Your disc image (the data track), 711,908,064 bytes
+be62448e2f80879ceea35c00e68d0cc1d9c40695  before patching: Doki Doki Poyatchio!! (Japan).bin
+8e3d3e6269fee067772ba17d7ddeee6e2526650e  after patching with DokiDokiPoyatchio-EN-v1.0.xdelta
