@@ -27,9 +27,6 @@ Version 1.0: the script, the menus and the pictures with text are translated.
 | Text in pictures | Done | 18 pictures redrawn in English: the staff-credit cards on the walk into town, Maria's six town-map hints, the names on the wall, the boys' cave map and the carving in the cave |
 | Opening movie | Done | The game's title added in English beneath the logo |
 | Staff roll | Done | The staff roll at the end of each story |
-| Voices | Not translated | The voice acting stays Japanese. Every spoken line has English text, and the one spoken line that has no text in the original now has a caption |
-| Songs | Not done | The opening theme and the ending songs are not subtitled |
-| Signs in the scenery | Not done | Small signs drawn into the town artwork are unchanged |
 | Tested on | DuckStation | Not tested on other emulators or on real hardware |
 
 ## About the game
